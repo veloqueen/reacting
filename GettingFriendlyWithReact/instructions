@@ -1,0 +1,6 @@
+hello, those are the instructions to install react app: 
+
+yarn create react-app getting
+
+yarn start
+
