@@ -4,3 +4,7 @@ yarn create react-app getting
 
 yarn start
 
+git init 
+git add .
+git commit -m 'your message'
+git remote add origin <remote repository URL>
